@@ -8,3 +8,4 @@ My Name: Hyunjong Lee
 My Class: OSSPrac
 
 Date: 27 mar 2024
+Weather: Cleanx
