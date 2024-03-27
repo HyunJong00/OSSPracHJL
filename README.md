@@ -7,4 +7,4 @@ My Name: Hyunjong Lee
 
 My Class: OSSPrac
 
-일자 : 2024.3.27
+Date: 27 mar 2024
