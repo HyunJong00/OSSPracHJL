@@ -9,7 +9,3 @@ My Class: OSSPrac
 
 Date: 27 mar 2024
 Weather: Clean
-#MLAC
-MLAC example 
-
-hjlee
